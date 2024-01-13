@@ -1,3 +1,6 @@
 [submodule "commclassroomOP1"]
 	path = commclassroomOP1
 	url = https://github.com/shravya312/commclassroomOP1.git
+[submodule "commclassroomop"]
+	path = commclassroomop
+	url = https://github.com/shravya312/commclassroomop.git
